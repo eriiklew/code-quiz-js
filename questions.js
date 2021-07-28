@@ -1,27 +1,27 @@
 var questions = [
     {
-        question:"How old am I?",
-        answers: ["16", "21", "22","26"],
-        correctAnswer: "22"
+        question:"Who invented JavaScript?",
+        answers: ["Douglas Crockford", "Sheryl Sandberg", "Brendan Eich","Jeff Bezos"],
+        correctAnswer: "Brendan Eich"
     },
     {
-        question:"Where am I from?",
-        answers: ["Wisconsin", "Nebraska", "Washington","China"],
-        correctAnswer: "Washington"
+        question:"Which one of these is a JavaScript package manager",
+        answers: ["Node.js", "TypeScript", "CSS","npm"],
+        correctAnswer: "npm"
     },
     {
-        question:"What is my favorite console?",
-        answers: ["Xbox", "Playstation", "Nintendo Switch","PC"],
-        correctAnswer: "Xbox"
+        question:"Which tool can you use to ensure code quality?",
+        answers: ["Angular", "jQuery", "RequireJS","ESLint"],
+        correctAnswer: "ESLint"
     },
     {
-        question:"How many pets do I have?",
-        answers: ["1", "2", "3","4"],
-        correctAnswer: "2"
+        question:"Which of the following isn't a language",
+        answers: ["Node.js", "JavaScript", "HTML","CSS"],
+        correctAnswer: "Node.js"
     },
     {
-        question:"Where do I live?",
-        answers: ["Seattle", "Miami", "Bellingham","Vancouver BC"],
-        correctAnswer: "Seattle"
+        question:"What year was JavaScript Created?",
+        answers: ["1995", "1997", "2000","2001"],
+        correctAnswer: "1995"
     },
 ]
